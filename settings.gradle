@@ -1,0 +1,3 @@
+// Set project data
+rootProject.name = 'functionance'
+include 'core'
