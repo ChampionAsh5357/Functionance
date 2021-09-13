@@ -9,7 +9,7 @@
 
 /**
  * Functionance is a project recreating Java functions to make them more
- * state-wise while still remaining completely typesafe. States can be tracked
+ * state-wise while still remaining completely type-safe. States can be tracked
  * via three identifiers: inputs, outputs, and transformers.
  *
  * <p>Input states represent the number of inputs the implementing object has
